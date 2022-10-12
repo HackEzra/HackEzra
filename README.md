@@ -1,2 +1,2 @@
-Hi, I'm Ezra Malatit, a computer science student interested in mobile web application, website development using HTML, css and PHP.
+Hi, I'm Ezra, a computer science student with knowledge in mobile Android application, web development, network security, Java applications development and C++ programs.
 
