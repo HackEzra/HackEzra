@@ -1,2 +1,2 @@
-Hi, I'm a computer science student with passion in technology world.
+Mathematics and Computer science student with passion in tech world.
 
