@@ -9,4 +9,4 @@ AI & ML Enthusiast
 •Full Stack Python Developer
 
 
-![CSS](https://icons8.com/icon/7gdY5qNXaKC0/css3)
+![](https://myoctocat.com/assets/images/base-octocat.svg)
