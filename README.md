@@ -9,4 +9,4 @@ AI & ML Enthusiast
 •Full Stack Python Developer
 
 
-![CSS](https://www.pngwing.com/en/free-png-vffgt)
+![CSS](https://icons8.com/icon/7gdY5qNXaKC0/css3)
