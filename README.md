@@ -10,4 +10,7 @@ AI & ML Enthusiast
 
 
 ![](https://myoctocat.com/assets/images/base-octocat.svg)
-![](https://icons8.com/icon/21278/css3.png)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
