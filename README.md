@@ -1,15 +1,6 @@
 Mathematics and Computer science student with passion in tech world.
-AI & ML Enthusiast 
-•Software Developer 
-•Web Developer
-•Ethical Hacker 
-•Network Penetration Tester 
-•Program Analyst 
-•NLP Expert 
-•Full Stack Python Developer
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
-![](https://myoctocat.com/assets/images/base-octocat.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
