@@ -2,6 +2,8 @@ Web Developer | Web Pentester
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackEzra&layout=compact)](https://github.com/HackEzra)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HackEzra&label=Profile%20Views&color=430680&style=flat" alt="HackEzra" /> </p>
+
 <h2 align="center">💻 Favourite Tools and Technologies:</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
