@@ -4,99 +4,72 @@ Web Developer | Web Security Researcher
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HackEzra&label=Profile%20Views&color=430680&style=flat" alt="HackEzra" /> </p>
 
-<h2 align="center">💻 Favourite Tools and Technologies:</h2>
+<h2 align="center">💻 Favourite Tools and Technologies 🛠</h2>
 
-<div style="display: flex; align-items: flex-start; align: center">
-                <table align="center">
-                    <tr>
-                      <td align="center" width="96">
-                            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65"
-                                height="65" />
-                            <br>JavaScript
-                        </td>
-                      <td align="center" width="96">
-                            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65"
-                                height="65" />
-                            <br>React
-                        </td>
-                        <td align="center" width="96">
-                            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-                            <br>HTML5
-                        </td>
-                        <td align="center" width="96">
-                            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-                            <br>CSS
-                        </td>
-                        <td align="center" width="96">
-                            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-                            <br>Tailwind
-                        </td>
-                        <td align="center" width="96">
-                            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-                            <br>Nodejs
-                        </td>
-                        <td align="center" width="96">
-                            <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-                            <br>Sass
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="center" width="96">
-                            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65"
-                                height="65" />
-                            <br>MySQL
-                        </td>
-                        <td align="center" width="96">
-                            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-                            <br>MongoDB
-                        </td>
-                        <td align="center" width="96">
-                            <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-                            <br>PHP
-                        </td>
-                        <td align="center" width="96">
-                            <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-                            <br>Java
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="center" width="96">
-                            <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-                            <br>Kali Linux
-                        </td>
-                        <td align="center" width="96">
-                            <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
-                            <br>Ubuntu
-                        </td>
-                        <td align="center" width="96">
-                            <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="windows" />
-                            <br>Windows
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="center" width="96">
-                            <a>
-                                <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65"
-                                    height="65" />
-                            </a>
-                            <br>Python
-                        </td>
-                        <td align="center" width="96">
-                            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-                                width="48" height="48" alt="Git" />
-                            <br>Git
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="center" width="96">
-                            <a>
-                                <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65"
-                                    height="65" />
-                            </a>
-                            <br>Github
-                        </td>
-                    </tr>
-                </table>
-            </div>
+###
 
+<h3 align="center">Frontend Development</h4>
 
+###
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" height="40" title="Javascript" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" height="40" title="ReactJS" alt="reactjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="TailwindCSS" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="NodeJS" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" title="Scss" alt="scss logo"  />
+</div>
+
+###
+
+<h3 align="center">Backend Development & Databases</h4>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" title="PHP" alt="php logo"  />
+  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="40" title="MySQL" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" alt="mongodb logo"  />
+</div>
+
+###
+
+<h3 align="center">Main OS and VMs</h4>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" title="Ubuntu" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" title="Windows" alt="windows logo"  />
+
+</div>
+
+###
+
+<h3 align="center">Scripting Languages</h4>
+
+###
+
+<div align="center">  
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40" title="Python" alt="python logo"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="40" title="Git Bash" alt="git logo"  />
+  <img width="12" />
+</div>
+
+###
