@@ -42,6 +42,8 @@ Web Developer | Web Security Researcher
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="40" title="MySQL" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="Github" alt="github logo"  />
 </div>
 
 ###
@@ -68,7 +70,7 @@ Web Developer | Web Security Researcher
 <div align="center">  
   <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40" title="Python" alt="python logo"  />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="40" title="Git Bash" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" title="Bash" alt="bash logo"  />
   <img width="12" />
 </div>
 
