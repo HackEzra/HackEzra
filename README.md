@@ -13,19 +13,19 @@ Web Developer | Web Security Researcher
 ###
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" height="40" title="Javascript" alt="javascript logo"  />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" height="60" title="Javascript" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" height="40" title="ReactJS" alt="reactjs logo"  />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" height="60" title="ReactJS" alt="reactjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" title="HTML" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" title="CSS" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="TailwindCSS" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" title="TailwindCSS" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="NodeJS" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" title="NodeJS" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" title="Scss" alt="scss logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" title="Scss" alt="scss logo"  />
 </div>
 
 ###
@@ -35,15 +35,15 @@ Web Developer | Web Security Researcher
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" title="Java" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" title="PHP" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="60" title="PHP" alt="php logo"  />
   <img width="12" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="40" title="MySQL" alt="mysql logo"  />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="60" title="MySQL" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" title="MongoDB" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" title="Github" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="60" title="Github" alt="github logo"  />
 </div>
 
 ###
@@ -53,11 +53,11 @@ Web Developer | Web Security Researcher
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux" alt="linux logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="60" title="Linux" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" title="Ubuntu" alt="ubuntu logo"  />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="60" title="Ubuntu" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windows" height="40" title="Windows" alt="windows logo"  />
+  <img src="https://skillicons.dev/icons?i=windows" height="60" title="Windows" alt="windows logo"  />
 
 </div>
 
@@ -68,9 +68,9 @@ Web Developer | Web Security Researcher
 ###
 
 <div align="center">  
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40" title="Python" alt="python logo"  />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="60" title="Python" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" title="Bash" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" title="Bash" alt="bash logo"  />
   <img width="12" />
 </div>
 
