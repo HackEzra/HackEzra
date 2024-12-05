@@ -48,7 +48,7 @@ Web Developer | Web Security Researcher
 
 ###
 
-<h3 align="center">Main OS and VMs</h4>
+<h3 align="center">OS</h4>
 
 ###
 
@@ -63,7 +63,7 @@ Web Developer | Web Security Researcher
 
 ###
 
-<h3 align="center">Scripting Languages</h4>
+<h3 align="center">Scripting</h4>
 
 ###
 
